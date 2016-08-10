@@ -1,2 +1,1 @@
-# illinisolardecathlon
-UIUC ISD site
+Repository for Illinois Solar Decathlon website
